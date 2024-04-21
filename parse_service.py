@@ -19,6 +19,5 @@ def create_food(food_name: str):
     return response.json()
 
 
-
 if __name__ == "__main__":
     create_food('test')
