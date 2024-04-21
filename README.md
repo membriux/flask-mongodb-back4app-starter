@@ -12,8 +12,8 @@ Why create this template?
 
 ## Before you Clone this repo
 
-1. Create Back4app.com account and create a sample database and collection
-2. In Back4app.com, obtain your credentials for the parse_service.py from these places:
+1. Create back4app.com account and create a sample database and collection
+2. In back4app.com, obtain your credentials for the parse_service.py from these places:
    - API Server URL
      - ![APIKEY](api_url.png)
    - App ID and Rest API Key
