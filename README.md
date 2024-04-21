@@ -18,6 +18,7 @@ Why create this template?
      - ![APIKEY](api_url.png)
    - App ID and Rest API Key
      - ![App ID and api key](api_key_app_id.png)
+3. Copy these values into `parse_service.py`
 
 ## Run it!
 
