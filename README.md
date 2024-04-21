@@ -8,6 +8,8 @@ Why create this template?
 
 **Sample Demo**
 
+![demo1](https://github.com/membriux/flask-mongodb-back4app-starter/assets/20372706/878fcca4-b03b-486f-9b20-7a4eed6d3766)
+
 ## Before you Clone this repo
 
 1. Create Back4app.com account and create a sample database and collection
