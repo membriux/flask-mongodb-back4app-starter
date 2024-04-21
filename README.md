@@ -3,7 +3,7 @@
 Starter app for connecting flask app with mongo db hosted on Back4app (free DB)
 
 Why create this template?
-- Back4app provides a free mongodb
+- Back4app provides FREE mongodb!
 - There are no python resources on how to create a backend service that connects to Back4app (until this one)
 
 **Sample Demo**
